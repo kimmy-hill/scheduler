@@ -20,3 +20,6 @@ WHEN I refresh the page
 THEN the saved events persist
 
 deployment:
+
+starter code:
+https://github.com/coding-boot-camp/super-disco
