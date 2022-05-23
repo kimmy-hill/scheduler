@@ -20,6 +20,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 deployment:
+https://kimmy-hill.github.io/scheduler/
 
 starter code:
 https://github.com/coding-boot-camp/super-disco
